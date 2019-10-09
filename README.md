@@ -1,0 +1,2 @@
+# stereopi
+prototipo con stereopi
